@@ -27,7 +27,7 @@ def yearProgress():
     nowTime = int(time.time())
     progressOfThisYear = (nowTime - startTimeOfThieYear) / (endTimeOfThisYear - startTimeOfThieYear)
     progressBarOfThisYear = generateProgressBar(progressOfThisYear)
-    return "⏳ Year progress {} {}%".format(progressBarOfThisYear, round(progressOfThisYear * 100, 1))
+    return "⏳ Year progress {} {}%  ".format(progressBarOfThisYear, round(progressOfThisYear * 100, 1))
 
 def lifeProgress():
     born = int(time.mktime(time.strptime("1994-06-03 00:00:00","%Y-%m-%d %H:%M:%S")))
@@ -35,7 +35,7 @@ def lifeProgress():
     nowTime = int(time.time())
     progressOfThisYear = (nowTime - born) / (death - born)
     progressBarOfThisYear = generateProgressBar(progressOfThisYear)
-    return "😱 Life progress {} {}%".format(progressBarOfThisYear, round(progressOfThisYear * 100, 1))
+    return "😱 Life progress {} {}%  ".format(progressBarOfThisYear, round(progressOfThisYear * 100, 1))
 
 if __name__ == "__main__":
     readme = root / "README.md"
