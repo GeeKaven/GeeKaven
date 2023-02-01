@@ -23,7 +23,7 @@ jobs:
     - name: Commit and push if changed
       run: |-
         git diff
-        git config --global user.email "i@tawawa.moe"
+        git config --global user.email "4497625+GeeKaven@users.noreply.github.com"
         git config --global user.name "geekaven-bot"
         git pull
         git add -A
