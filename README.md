@@ -16,10 +16,7 @@ I'd like to do something that has relation to ACG.
 <!--START_SECTION:waka-->
 
 ```text
-Markdown     1 hr 53 mins    █████████████░░░░░░░░░░░░   51.52 %
-Python       56 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.49 %
-YAML         37 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.10 %
-JavaScript   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.90 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
