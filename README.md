@@ -16,7 +16,7 @@ I'd like to do something that has relation to ACG.
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Other        48 mins         ███████████████▒░░░░░░░░░   61.60 %
 ```
 
 <!--END_SECTION:waka-->
