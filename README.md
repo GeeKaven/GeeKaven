@@ -16,8 +16,8 @@ I'd like to do something that has relation to ACG.
 <!--START_SECTION:waka-->
 
 ```text
-YAML       55 mins         █████████░░░░░░░░░░░░░░░░   35.93 %
-Other      40 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.47 %
+YAML       55 mins         ████████▓░░░░░░░░░░░░░░░░   35.05 %
+Other      44 mins         ███████░░░░░░░░░░░░░░░░░░   28.27 %
 ```
 
 <!--END_SECTION:waka-->
