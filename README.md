@@ -16,9 +16,10 @@ I'd like to do something that has relation to ACG.
 <!--START_SECTION:waka-->
 
 ```text
-tmux       1 hr 45 mins    █████████▓░░░░░░░░░░░░░░░   38.07 %
-YAML       1 hr 24 mins    ███████▓░░░░░░░░░░░░░░░░░   30.67 %
-Other      53 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.19 %
+Lua        2 hrs 7 mins    ████████░░░░░░░░░░░░░░░░░   32.33 %
+tmux       1 hr 46 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.01 %
+YAML       1 hr 24 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.45 %
+Other      53 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
 ```
 
 <!--END_SECTION:waka-->
