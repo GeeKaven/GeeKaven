@@ -16,9 +16,9 @@ I'd like to do something that has relation to ACG.
 <!--START_SECTION:waka-->
 
 ```text
-Lua          6 hrs 44 mins   ██████████████████▓░░░░░░   74.40 %
-TypeScript   49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
-Other        49 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+Lua          4 hrs 47 mins   █████████████████░░░░░░░░   67.40 %
+TypeScript   51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
+Other        49 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 %
 ```
 
 <!--END_SECTION:waka-->
