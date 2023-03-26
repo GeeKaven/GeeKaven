@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 I'm a guy who wants to be interesting.  
-I'd like to do something that has relation to ACG.
+I'd like to do something that has relation to ACG...
 
 ❤️ I'm currently learning:  
 <br>
