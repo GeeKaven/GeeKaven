@@ -16,11 +16,12 @@ I'd like to do something that has relation to ACG...
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   3 hrs 24 mins   ████████████████████████▒   97.43 %
-JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-MDX          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+TypeScript   3 hrs 24 mins   ████████████████████▒░░░░   81.92 %
+Rust         30 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 %
+Git Config   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+TOML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
