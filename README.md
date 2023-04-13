@@ -16,12 +16,9 @@ I'd like to do something that has relation to ACG...
 <!--START_SECTION:waka-->
 
 ```text
-Rust         12 hrs 7 mins   ███████████████████████▓░   94.50 %
-Markdown     17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
-Git Config   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-TOML         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Rust         20 hrs 30 mins  ████████████████████████░   95.90 %
+Markdown     16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
