@@ -16,10 +16,9 @@ I'd like to do something that has relation to ACG.
 <!--START_SECTION:waka-->
 
 ```text
-Rust         11 hrs 41 mins  █████████████████████░░░░   83.89 %
-C#           1 hr 31 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.91 %
-Markdown     16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+Rust         8 hrs 52 mins   █████████████████▒░░░░░░░   68.77 %
+C#           3 hrs 31 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.25 %
+Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
