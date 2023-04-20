@@ -16,9 +16,8 @@ I'd like to do something that has relation to ACG.
 <!--START_SECTION:waka-->
 
 ```text
-Rust         8 hrs 52 mins   █████████████████▒░░░░░░░   68.77 %
-C#           3 hrs 31 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.25 %
-Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+C#           3 hrs 53 mins   ███████████████████████▓░   95.31 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
 ```
 
 <!--END_SECTION:waka-->
