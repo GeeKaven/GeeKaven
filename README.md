@@ -16,11 +16,7 @@ I'd like to do something that has relation to ACG.
 <!--START_SECTION:waka-->
 
 ```text
-Rust          1 hr 5 mins     █████████████████░░░░░░░░   67.38 %
-TypeScript    12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
-JavaScript    8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-AppleScript   5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.44 %
-JSON          3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
