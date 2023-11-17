@@ -16,10 +16,11 @@ I'd like to do something that has relation to ACG.
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         15 mins         ███████████████████▒░░░░░   77.27 %
-Other        2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
-SSH Config   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
-Markdown     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+fish         1 hr 20 mins    ███████▒░░░░░░░░░░░░░░░░░   29.77 %
+tmux         1 hr 2 mins     █████▓░░░░░░░░░░░░░░░░░░░   23.00 %
+YAML         1 hr 1 min      █████▓░░░░░░░░░░░░░░░░░░░   22.87 %
+Markdown     27 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.14 %
+Lua          25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
 ```
 
 <!--END_SECTION:waka-->
