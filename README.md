@@ -16,11 +16,7 @@ I'd like to do something that has relation to ACG.
 <!--START_SECTION:waka-->
 
 ```txt
-tmux         2 hrs 54 mins   █████████████░░░░░░░░░░░░   52.36 %
-Other        2 hrs 4 mins    █████████▒░░░░░░░░░░░░░░░   37.36 %
-Git Config   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-YAML         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-Text         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
