@@ -16,10 +16,7 @@ I'd like to do something that has relation to ACG.
 <!--START_SECTION:waka-->
 
 ```txt
-Lua     1 hr 7 mins     ████████████████████████▒   96.86 %
-TOML    2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-Text    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
