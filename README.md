@@ -16,10 +16,8 @@ I'd like to do something that has relation to ACG.
 <!--START_SECTION:waka-->
 
 ```txt
-Python   14 mins         ████████████████▓░░░░░░░░   66.98 %
-YAML     4 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.90 %
-Docker   1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
-Text     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+JSON   35 mins         ████████████████████████▓   98.61 %
+YAML   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
 ```
 
 <!--END_SECTION:waka-->
